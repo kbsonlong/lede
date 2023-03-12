@@ -255,8 +255,6 @@ jobs:
           CONFIG_PACKAGE_wakeonlan=y
           CONFIG_PACKAGE_watchcat=y
           CONFIG_PACKAGE_webui-aria2=m
-          CONFIG_PACKAGE_wg-installer-client=y
-          CONFIG_PACKAGE_wg-installer-server=y
           CONFIG_PERL_NOCOMMENT=y
           CONFIG_PERL_THREADS=y
           CONFIG_SQLITE3_COLUMN_METADATA=y
